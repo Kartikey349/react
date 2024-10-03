@@ -1,0 +1,14 @@
+{
+  "name": "ep2",
+  "version": "1.0.0",
+  "description": "this is react repo of kartikey",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
